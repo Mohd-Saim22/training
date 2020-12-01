@@ -6,7 +6,11 @@ This file has the topics to be studied during training:
 
 4. Hibernate
 
+
 5. Database
 6. MySQL
+7. Spring Core
 
 Complete
+
+
