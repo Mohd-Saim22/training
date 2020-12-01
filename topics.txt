@@ -5,3 +5,4 @@ This file has the topics to be studied during training:
 3. Spring Boot
 
 4. Hibernate
+5. Spring Core
