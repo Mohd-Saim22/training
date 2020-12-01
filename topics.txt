@@ -1,0 +1,5 @@
+This file has the topics to be studied during training:
+
+1. Git
+2. Core Java
+3. Spring Boot
